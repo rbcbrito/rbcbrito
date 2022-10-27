@@ -23,5 +23,5 @@
   <a href="https://www.instagram.com/robertobcb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-
+![Snake animation](https://github.com/rbcbrito/rbcbrito/blob/outlut/github-contribution-gri-snake.svg)
 
