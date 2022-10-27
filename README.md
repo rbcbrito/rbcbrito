@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/rbcbrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbcbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbcbrito&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rbcbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbcbrito&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rob-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
